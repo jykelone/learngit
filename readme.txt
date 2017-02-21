@@ -4,7 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 My BOSS is sb.
 
-Creating a new branch is quick. (dev)
-
-Creating a new branch is quick AND simple.
-
+new dev
