@@ -5,3 +5,6 @@ Git tracks changes.
 My BOSS is sb.
 
 Creating a new branch is quick. (dev)
+
+Creating a new branch is quick AND simple.
+
